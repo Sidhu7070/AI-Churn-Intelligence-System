@@ -1,9 +1,9 @@
+streamlit
 pandas
 numpy
-matplotlib
-seaborn
 scikit-learn
-streamlit
 joblib
 plotly
-shap
+shap==0.48.0
+reportlab
+matplotlib
