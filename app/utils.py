@@ -1,5 +1,7 @@
 import joblib
 import os
+import shap
+import reportlab
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
