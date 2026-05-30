@@ -133,8 +133,9 @@ Target Variable:
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
+```text
 AI-Churn-Intelligence-System/
 │
 ├── app/
@@ -161,7 +162,7 @@ AI-Churn-Intelligence-System/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
----
+```
 
 ## Installation
 
